@@ -6,8 +6,9 @@ The dashboard uses sales data, including transactions, customer details, product
 
 ---
 
-[Foseco Dataset](https://drive.google.com/file/d/1MrRWkBxqK924qclJvaEKH3gOwKt1E7KB/view?usp=drive_link)
+[Foseco Dataset Download](https://drive.google.com/file/d/1MrRWkBxqK924qclJvaEKH3gOwKt1E7KB/view?usp=drive_link)
 
+![DASHBOARD](https://raw.githubusercontent.com/Nithing-cloud/Foundry-Sales-Excel/refs/heads/main/Excel%20Dashboard.PNG)
 ---
 
 ## KPI for the Dashboard
