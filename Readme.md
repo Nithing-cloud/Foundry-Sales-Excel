@@ -11,7 +11,7 @@ The dashboard uses sales data, including transactions, customer details, product
 ![DASHBOARD](https://raw.githubusercontent.com/Nithing-cloud/Foundry-Sales-Excel/refs/heads/main/Excel%20Dashboard.PNG)
 ---
 
-[Foseco Live Dashboard](https://1drv.ms/x/c/fe0a721a001e2087/EaRTuZEixEtIhpMwdjtKU-8BDr-kcxR6cGNgog7jvseVxg?e=VemLiN)
+[Foseco Live Dashboard](https://1drv.ms/x/c/fe0a721a001e2087/ETnlR3ejQl1PsOwZmDvKwrUBi3nt-rWA-_62xQ1XQeak-Q?e=9xcYlE)
 
 
 ## KPI for the Dashboard
